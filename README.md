@@ -1,2 +1,2 @@
-# holamundo
-es mi primer repositorio en github
+# Hola Mundo mejorado
+Es mi primer repositorio en github
